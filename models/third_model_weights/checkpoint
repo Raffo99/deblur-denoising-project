@@ -1,0 +1,2 @@
+model_checkpoint_path: "third_model_weights"
+all_model_checkpoint_paths: "third_model_weights"
